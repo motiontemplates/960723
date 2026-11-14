@@ -5,7 +5,7 @@
   "owner": "adunext",
   "slug": "template-05-native",
   "website": "https://motiongit.com/@adunext/template-05-native",
-  "version": "2.7.18-alpha.8",
+  "version": "2.7.18-alpha.11",
   "technical": {
     "en": [
       "Declared runtime profile: adu-authored-unit/1.",
@@ -20,7 +20,7 @@
       "已声明时长随本期配音适配，最终节奏由包内制作计划确定，样片时长不是固定成片时长。"
     ]
   },
-  "checkedAt": "2026-11-04",
+  "checkedAt": "2026-11-14",
   "availability": "demo-only",
   "title": {
     "en": "Vivid Characters · Narrative Explainer",
