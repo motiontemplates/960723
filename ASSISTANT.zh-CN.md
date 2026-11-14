@@ -3,7 +3,7 @@
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
 模板与完整下载: https://motiongit.com/@adunext/template-05-native
-版本: 2.7.18-alpha.11
+版本: 2.7.18-alpha.12
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料

@@ -1,7 +1,7 @@
 # Vivid Characters · Narrative Explainer · MotionGit .motion
 
 Template and full package: https://motiongit.com/@adunext/template-05-native
-Version: 2.7.18-alpha.11
+Version: 2.7.18-alpha.12
 Demo available. Check the official page for current download availability.
 
 Declared runtime profile: adu-authored-unit/1.

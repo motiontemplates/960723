@@ -4,7 +4,7 @@
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.18-alpha.11** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.18-alpha.12** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口，并提供免费背景音乐及免费素材检索。升级版模板仍然 **100% 免费开源**。请从下方 MotionGit 官网下载升级版，官网按账号提供接口访问，防止批量请求滥用。素材接口的免费范围以官网说明为准。
 
